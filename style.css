@@ -21,7 +21,7 @@ nav {
     margin-left: 40px;
 }
 
-.navRight ul {
+/* .navRight ul {
     width: 300px;
     display: flex;
     justify-content: space-around;
@@ -34,7 +34,7 @@ nav {
     font-style: bold;
     text-decoration: none;
     
-}
+} */
 
 .gameContainer{
     /* background-color: yellow; */
